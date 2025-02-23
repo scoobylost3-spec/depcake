@@ -28,7 +28,7 @@ let itemsList = [
     { "id": 27,"name": "Doremon Cake", "image": "./img/flavours/Doremon.jpg", "type": "theme" },
     { "id": 28,"name": "Engagement Rings Cake", "image": "./img/flavours/rings.jpg", "type": "theme" },
     { "id": 29,"name": "Couple Cake", "image": "./img/flavours/Marriage.jpg", "type": "theme" },
-    { "id": 30,"name": "Peppa Pig Cake", "image": "./img/flavours/Peppa pig.jpg", "type": "theme" },
+    { "id": 30,"name": "Peppa Pig Cake", "image": "./img/flavours/Peppapig.jpg", "type": "theme" },
     { "id": 31,"name": "Astronaut Cake", "image": "./img/flavours/Astronut.jpg", "type": "theme" },
     { "id": 32,"name": "Super Mario Cake", "image": "./img/flavours/mario.jpg", "type": "theme" },
     { "id": 34,"name": "Teddy Bear Cake", "image": "./img/flavours/Teddy.jpg", "type": "theme" },
